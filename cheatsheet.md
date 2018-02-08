@@ -23,3 +23,7 @@
 
 ##### Creates a branch, and moves you onto it AT THE SAME TIME
 		git checkout -b <new branch name>
+# New stuff from tutorial ...
+
+git checkout -b <new branch name>
+
